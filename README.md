@@ -42,6 +42,10 @@ Before you run the automation, make sure you have the following:
 
 
 
-### Contact
+## Author
+- [Github](https://github.com/Klaus-in-Tech)
+- [LinkedIn](https://www.linkedin.com/in/kakoozaallanklaus/)
+- [Twitter](https://twitter.com/Klaus_in_Tech)
+- [Instagram](https://instagram.com/klaus_allan_?igshid=ZDdkNTZiNTM=)
 
-If you have any questions or need assistance, you can reach out to the developer at `developer@example.com`.
+### Feel free to connect with me on my socials as listed above. 😊
